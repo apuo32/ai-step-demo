@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/apuo32/ai-step-demo.git/static/css/main.7968f1e6.css",
-    "main.js": "/apuo32/ai-step-demo.git/static/js/main.02fd3cdd.js",
-    "index.html": "/apuo32/ai-step-demo.git/index.html",
-    "main.7968f1e6.css.map": "/apuo32/ai-step-demo.git/static/css/main.7968f1e6.css.map",
-    "main.02fd3cdd.js.map": "/apuo32/ai-step-demo.git/static/js/main.02fd3cdd.js.map"
+    "main.css": "/ai-step-demo/static/css/main.7968f1e6.css",
+    "main.js": "/ai-step-demo/static/js/main.02fd3cdd.js",
+    "index.html": "/ai-step-demo/index.html",
+    "main.7968f1e6.css.map": "/ai-step-demo/static/css/main.7968f1e6.css.map",
+    "main.02fd3cdd.js.map": "/ai-step-demo/static/js/main.02fd3cdd.js.map"
   },
   "entrypoints": [
     "static/css/main.7968f1e6.css",
