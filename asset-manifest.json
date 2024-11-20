@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apuo32/ai-step-demo.git/static/css/main.7968f1e6.css",
+    "main.js": "/apuo32/ai-step-demo.git/static/js/main.02fd3cdd.js",
+    "index.html": "/apuo32/ai-step-demo.git/index.html",
+    "main.7968f1e6.css.map": "/apuo32/ai-step-demo.git/static/css/main.7968f1e6.css.map",
+    "main.02fd3cdd.js.map": "/apuo32/ai-step-demo.git/static/js/main.02fd3cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7968f1e6.css",
+    "static/js/main.02fd3cdd.js"
+  ]
+}
